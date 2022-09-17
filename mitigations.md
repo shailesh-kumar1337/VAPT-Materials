@@ -6,3 +6,7 @@
   <center>Vulnerability & Mitigation Description</center>
   </h2>
 </html>
+
+XSS
+Html Injection
+
