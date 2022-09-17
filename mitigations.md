@@ -1,6 +1,6 @@
 <html>
 <h1>
-  <b>VAPT MAterials</b>
+  <b>VAPT Materials</b>
   </h1>
 <h2>
   <center>Vulnerability & Mitigation Description</center>
